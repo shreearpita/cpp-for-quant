@@ -1,3 +1,4 @@
 build/
 module0/hello
 module0/broken
+build-release/
